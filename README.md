@@ -27,9 +27,7 @@ We have plans to enhance this repository in the future:
 
 - **Interactive Auto Text Generation**: In the future, we aim to develop an interactive version of the templates that will generate a copyable support ticket text automatically based on their responses. This will simplify the process further and potentially help small-scale teams or organizations with streamlining their tech queries.
 
-Your feedback and contributions are welcome as we work to improve our tech support ticketing system. Please feel free to suggest changes or report any issues with the templates (especialy typos).
-
-Thank you for helping us maintain a smooth and efficient IT support process!
+Your feedback and contributions are welcome as we work to improve our tech support ticketing system. Please feel free to suggest changes or report any issues with the templates (especially typos).
 
 ---
 *Note: This template is a work in progress and may undergo updates and improvements over time.*
